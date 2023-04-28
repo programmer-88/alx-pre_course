@@ -1,1 +1,1 @@
-this is about git
+This is about git ;)
